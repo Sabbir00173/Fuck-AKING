@@ -1,4 +1,4 @@
-# AKING-PRO
+# Bypass Sabbir
 FREE TOOLS
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/Sabbir00173)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Raj.1Pis.Your.Crush)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01949-434886)
 
@@ -22,10 +22,10 @@ FREE TOOLS
 - `pip install mechanize`
 - `rm -rf AKING-PRO`
 - `git clone --depth=1 https://github.com/Sabbir00173/Fuck-AKING`
-- `cd AKING-PRO`
-- `python AKING.py`
+- `cd Fuck-AKING`
+- `python Fuck.py`
 
 
 
- ___This Tools is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01949-434886)
+ ___This Tools is free___</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-SABBIR-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+01949-434886)
