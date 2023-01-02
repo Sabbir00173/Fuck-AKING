@@ -23,7 +23,7 @@ FREE TOOLS
 - `rm -rf AKING-PRO`
 - `git clone --depth=1 https://github.com/Sabbir00173/Fuck-AKING`
 - `cd Fuck-AKING`
-- `python Fuck.py`
+- `python AKING.py`
 
 
 
